@@ -2,3 +2,11 @@ theme: jekyll-theme-minimal
 logo: /assets/img/<logo_file>
 title: newdevchristine's homepage
 description: Bookmark this to keep an eye on my project updates!
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/newdevchristine
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
+    
